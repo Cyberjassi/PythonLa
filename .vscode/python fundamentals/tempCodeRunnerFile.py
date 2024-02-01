@@ -1,0 +1,1 @@
+print(f"This car is {status}")
